@@ -3,3 +3,9 @@ tekst 2
 Dodavam drugo nesto treto
 
 i nesto cetvtro
+<<<<<<< HEAD
+=======
+
+
+dodavam nov tekst
+>>>>>>> ae74a5c495f64ea634546d256c9cef9904b8c6a6
