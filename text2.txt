@@ -3,3 +3,6 @@ tekst 2
 Dodavam drugo nesto treto
 
 i nesto cetvtro
+
+
+dodavam nov tekst
